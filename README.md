@@ -42,7 +42,7 @@ winget install ffmpeg
 
 ```bash
 git clone https://github.com/PauWol/ytdl.git
-cd yt-downloader
+cd ytdl
 ```
 
 ### 2. Create a virtual environment
